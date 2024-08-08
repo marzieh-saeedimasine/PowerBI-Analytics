@@ -20,5 +20,10 @@ This repository provides dashboards for different projects using Power Bi.
 ## Overview of survey data analysis project:       
 -- Download data: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx    
 -- data cleaning and data transformation has been performed with power query       
--- dashboard forsurvey data was built and save as .pbix and .pdf formats        
+-- dashboard forsurvey data was built and save as .pbix and .pdf formats
+
+## Overview of bike sharing analysis project:      
+-- Download Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset     
+-- data cleaning and data transformation has been performed in mysql (bike.sql) and power query         
+-- bike rental system was analyzed, dashboard was built and save as .pbix formats    
    
