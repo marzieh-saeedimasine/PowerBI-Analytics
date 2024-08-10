@@ -25,5 +25,9 @@ This repository provides dashboards for different projects using Power Bi.
 ## Overview of bike sharing analysis project:      
 -- Download Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset     
 -- data cleaning and data transformation has been performed in mysql (bike.sql) and power query         
--- bike rental system was analyzed, dashboard was built and save as .pbix formats    
+-- bike rental system was analyzed, dashboard was built and save as .pbix and .pdf formats     
    
+## Overview of Absenteeism at work analysis project:        
+-- Download Dataset: https://archive.ics.uci.edu/dataset/445/absenteeism+at+work         
+-- data cleaning and data transformation has been performed in mysql (WorkAbsenteeism.sql)  
+-- Absenteeism at work was analyzed, dashboard was built and save as .pbix and .pdf formats  
