@@ -7,12 +7,12 @@ This repository provides dashboards for different projects using Power Bi.
 -- Some cleaning and transformation has been performed with power query      
 -- different visualizations has been tested and built dashboards was in .pbix and .pdf formats      
 
-## Overview of Power BI Dashboard Enhanced by Machine Learning: 
-**Clustering-Project:**
+## Overview of Machine Learning Integration in Power BI Dashboard:   
+**Clustering-Project:**  
 -- K-means algorithm has been integrated in powerBi and used for clustering of customer data.  
--- Data can be found here:
-https://www.kaggle.com/datasets/aajay20/mall-customers-datacsv   
--- Customer clustering was analyzed, dashboard was built and save as .pbix and .pdf formats  
+-- Data can be found here:  
+https://www.kaggle.com/datasets/aajay20/mall-customers-datacsv     
+-- Customer clustering was analyzed, dashboard was built and save as .pbix and .pdf formats    
 
 **Regression-Project:**  
 -- Linear Regression algorithm has been integrated in powerBi and used for prediction of car selling price.  
