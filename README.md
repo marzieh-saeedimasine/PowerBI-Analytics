@@ -3,7 +3,8 @@ PowerBi Analytics Repo:
 This repository provides dashboards for different projects using Power Bi.  
 
 ## Overview of Retail Sales and Product Economics data analysis project:      
--- Data downloaded from kaggle: https://www.kaggle.com/datasets/deepalisukhdeve/apocolypse-food-prep-using-power-bi       
+-- Data downloaded from kaggle:  
+ https://www.kaggle.com/datasets/deepalisukhdeve/apocolypse-food-prep-using-power-bi         
 -- Some cleaning and transformation has been performed with power query      
 -- different visualizations has been tested and built dashboards was in .pbix and .pdf formats      
 
