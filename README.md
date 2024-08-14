@@ -51,4 +51,7 @@ https://www.kaggle.com/datasets/kadirduran/hr-dataset
 -- data cleaning and data transformation has been performed in mysql (bike.sql) and power query         
 -- bike rental system was analyzed, dashboard was built and save as .pbix and .pdf formats     
    
-
+## Overview of hotel revenue analysis project:        
+-- Download Dataset: https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue         
+-- data cleaning and data transformation has been performed in mysql and power query           
+-- hotel revenue growth was analyzed, dashboard was built and save as .pbix and .pdf formats  
