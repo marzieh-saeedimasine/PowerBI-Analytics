@@ -22,10 +22,15 @@ https://www.kaggle.com/datasets/aajay20/mall-customers-datacsv
 -- Data corrolation matrix, Residual value and feature importance were calculated and shown in dashboard .pbix and .pdf formats   
 
 **Classification-Project:**  
--- Random Forest classification algorithm has been integrated in powerBi and used for prediction of employee churn.  
- -- HR dataset can be found here:    
-https://www.kaggle.com/datasets/kadirduran/hr-dataset   
--- Data corrolation matrix, confusion matrix and feature importance were calculated and shown in dashboard .pbix and .pdf formats    
+-- Random Forest classification algorithm has been integrated in powerBi and used for prediction of employee churn.    
+ -- HR dataset can be found here:      
+https://www.kaggle.com/datasets/kadirduran/hr-dataset     
+-- Data Descriptive statistics include summarize the central tendency and dispersion as well as data corrolation matrix was analyzed and visualized      
+-- Random Forest classification method was implemented for employee churn, confusion matrix and feature importance were calculated and shown in dashboard .pbix and .pdf formats
+
+**Outlier-Project:**    
+-- Isolation Forest algorithm was used to identify outliers in time series data.    
+ -- Data anomaly detection were shown in dashboard .pbix and .pdf formats  
 
 ## Overview of Absenteeism at work analysis project:        
 -- Download Dataset: https://archive.ics.uci.edu/dataset/445/absenteeism+at+work         
