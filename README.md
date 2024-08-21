@@ -15,19 +15,19 @@ This repository provides dashboards for different projects using Power Bi.
 https://www.kaggle.com/datasets/aajay20/mall-customers-datacsv     
 -- Customer clustering was analyzed, dashboard was built and save as .pbix and .pdf formats    
 
-**Regression-Project:**  
+**Regression-Project:**    
 -- Linear Regression algorithm has been integrated in powerBi and used for prediction of car selling price.  
- -- Vehicle dataset can be found here:  
- https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho  
--- Data corrolation matrix, Residual value and feature importance were calculated and shown in dashboard .pbix and .pdf formats 
+ -- Vehicle dataset can be found here:    
+ https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho    
+-- Data corrolation matrix, Residual value and feature importance were calculated and shown in dashboard .pbix and .pdf formats   
 
-**Regression-Project:**  
--- different regression algorithms have been tested for prediction of diamond price. 
- -- Diamond Price Prediction dataset can be found here:  
- https://www.kaggle.com/code/karnikakapoor/diamond-price-prediction 
--- ExtraTreesRegressor has been used and integrated in powerBi. Residual value was calculated as error and can be reactively selected by user inside the dashboard. 
+**Regression-Project:**    
+-- different regression algorithms have been tested for prediction of diamond price.   
+ -- Diamond Price Prediction dataset can be found here:    
+ https://www.kaggle.com/code/karnikakapoor/diamond-price-prediction   
+-- ExtraTreesRegressor has been used and integrated in powerBi. Residual value was calculated as error and can be reactively selected by user inside the dashboard.   
 
-**Classification-Project:**  
+**Classification-Project:**    
 -- Random Forest classification algorithm has been integrated in powerBi and used for prediction of employee churn.    
  -- HR dataset can be found here:      
 https://www.kaggle.com/datasets/kadirduran/hr-dataset     
