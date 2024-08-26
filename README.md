@@ -43,6 +43,13 @@ https://www.kaggle.com/datasets/kadirduran/hr-dataset
 -- data cleaning and data transformation has been performed in mysql (WorkAbsenteeism.sql)  
 -- Absenteeism at work was analyzed, dashboard was built and save as .pbix and .pdf formats  
 
+
+
+## Overview of sales data analysis of awesome chocolates project:          
+-- Download Dataset: https://www.kaggle.com/datasets/anshika2301/data-analysis-of-chocolates           
+-- Data transformation has been performed in power query. Sale data and forcasting in future was shown in dashboard.      
+-- Power Pivot and Dax have been used to analyze sale data in detail. Dax sysntax as well as dashboard was built and save as .pbix and .pdf formats  
+
 ## Overview of sales-insights data analysis project:    
 -- Download Dataset:https://codebasics.io/resources/sales-insights-data-analysis-project  
 -- data cleaning and data transformation has been performed with power query     

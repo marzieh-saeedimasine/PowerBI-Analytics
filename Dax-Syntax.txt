@@ -1,0 +1,22 @@
+Power Pivot and Dax syntax used in ChocolateSales project:
+Total Amount = SUM(sales[Amount]) 
+Total Boxes = SUM(sales[Boxes])
+Shipment count = COUNTROWS(sales) 
+Amount per shipment = DIVIDE([Total Amount],[Shipment count], "No shipment")
+APS achive target = IF([Amount per shipment]> 4500, "Yes","No")
+product count = COUNTROWS(products)
+Low box shipment count = CALCULATE([Shipment count], sales[Boxes]<50)  
+LBS% = DIVIDE([Low box shipment count],[Shipment count])*100 
+Bar% = DIVIDE(CALCULATE([Shipment count], products[Category]="Bars"),[Shipment count])*100 
+Bites% = DIVIDE(CALCULATE([Shipment count], products[Category]="Bites"),[Shipment count])*100 
+
+**newcolumn** weekday = WEEKDAY(sales[SaleDate])
+Total amount Friday = CALCULATE([Total Amount], sales[weekday]=6) 
+
+total amount APAC = (
+     var nu=CALCULATE([Total Amount], geo[Geo]="New Zealand")
+     var ast=CALCULATE([Total Amount], geo[Geo]="Australia")
+     var ind=CALCULATE([Total Amount], geo[Geo]="India")
+     return nu+ast+ind)
+
+total amount APAC 2 = (CALCULATE([Total Amount], geo[Geo] in {"New Zealand","Australia","India"}))
